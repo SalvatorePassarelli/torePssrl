@@ -1,4 +1,4 @@
-SALVATORE PASSARELLI
+# SALVATORE PASSARELLI
 
 📌 About Me Ciao! Sono Salvatore Passarelli, ho 19 anni e studio presso il Dipartimento di Studi Informatici dell'Università Federico II di Napoli. Attualmente frequento anche la Cyber Hackademy, dove approfondisco le mie competenze in Cyber Security e sviluppo software.
 

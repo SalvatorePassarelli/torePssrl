@@ -4,6 +4,6 @@
 
 💡 Skills & Interests
 
-🔐 Cyber Security & Ethical Hacking 💻 Programmazione e sviluppo software 🚀 Automazione e scripting 📡 Reti e sicurezza informatica 📂 Progetti Qui su GitHub troverai progetti legati alla sicurezza informatica, strumenti di automazione e altre curiosità tecnologiche!
+🔐 Cyber Security & Ethical Hacking 💻 Programmazione e sviluppo software 🚀 Automazione e scripting 📡 Reti e sicurezza informatica, 3D animation 📂 Progetti Qui su GitHub troverai progetti legati alla sicurezza informatica e render 3d per essfetti speciali, strumenti di automazione e altre curiosità tecnologiche!
 
 📬 Contattami Se vuoi collaborare o semplicemente scambiare idee, sentiti libero di scrivermi!
